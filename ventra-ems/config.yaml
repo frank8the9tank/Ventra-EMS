@@ -2,7 +2,7 @@ name: "Ventra-EMS-v2"
 description: "Ventra-tech Energy Management System v2"
 version: "1.0.396"
 slug: "ventra_ems_v2"
-image: "ghcr.io/frank8the9tank/ventra-ems-v2/{arch}"
+image: "ghcr.io/frank8the9tank/ventra-ems/{arch}"
 arch:
   - aarch64
   - amd64
