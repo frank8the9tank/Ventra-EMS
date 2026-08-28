@@ -1,8 +1,10 @@
-name: "Ventra-EMS-v2"
-description: "Ventra-tech Energy Management System v2"
-version: "1.0.411"
+name: "Ventra EMS"
+description: "Ventra-tech Energy Management System"
+version: "1.0.415"
 slug: "ventra_ems_v2"
 image: "ghcr.io/frank8the9tank/ventra-ems/{arch}"
+url: "https://github.com/frank8the9tank/Ventra-EMS"
+changelog: "CHANGELOG.md"
 arch:
   - aarch64
   - amd64
@@ -17,7 +19,7 @@ ingress_port: 8125
 ports:
   8125/tcp: 8125
 panel_icon: "mdi:home-battery-outline"
-panel_title: "Ventra EMS v2"
+panel_title: "Ventra EMS"
 map:
   - config:rw
 options:
