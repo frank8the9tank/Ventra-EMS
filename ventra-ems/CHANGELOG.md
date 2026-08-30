@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.418
+- fix(sell): include grid controller capacity in best_result scheduling
+
+## 1.0.417
+- fix(sell): fall back to threshold when best_result forecast is empty
+
+## 1.0.416
+- feat(telemetry): delete installation, add comments, fix solar/yield values
+
 ## 1.0.415
 - fix: rename release config template to prevent HA Supervisor collision
 
