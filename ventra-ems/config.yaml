@@ -1,6 +1,6 @@
 name: "Ventra EMS"
 description: "Ventra-tech Energy Management System"
-version: "1.0.415"
+version: "1.0.418"
 slug: "ventra_ems_v2"
 image: "ghcr.io/frank8the9tank/ventra-ems/{arch}"
 url: "https://github.com/frank8the9tank/Ventra-EMS"
