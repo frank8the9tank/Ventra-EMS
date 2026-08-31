@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.421
+- fix(battery): weight allocation by available kWh rather than SOC%
+
+## 1.0.420
+- fix(battery): discharge at full rate above floor threshold, taper only near empty
+
+## 1.0.419
+- fix(sell): use device export/import capacity for per-slot energy in best_result schedule
+
 ## 1.0.418
 - fix(sell): include grid controller capacity in best_result scheduling
 
