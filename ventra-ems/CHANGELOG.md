@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.424
+- feat(integration): add 6 read-only EMS status sensors to companion integration
+
+## 1.0.423
+- fix(ems): correct battery weight formula and sell schedule export capacity
+
+## 1.0.422
+- fix(gc): clamp sell/buy setpoint to grid limits and add solar to sell capacity
+
 ## 1.0.421
 - fix(battery): weight allocation by available kWh rather than SOC%
 
