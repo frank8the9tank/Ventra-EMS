@@ -1,5 +1,38 @@
 # Changelog
 
+## 1.0.435
+- feat(ui): move control box and price charts from dashboard to control page
+
+## 1.0.434
+- chore(integration): bump companion integration to v0.5.0
+
+## 1.0.433
+- fix(integration): clean up orphaned devices on startup
+
+## 1.0.432
+- feat(integration): add brand/ icons for HA brands proxy API
+
+## 1.0.431
+- feat(devices): add ≥/≤ operator toggle to device conditions
+
+## 1.0.430
+- feat(license-server): restrict admin interface to internal network (Plan C)
+
+## 1.0.429
+- feat(license-server): allow admin_key in login URL for direct bookmark access
+
+## 1.0.428
+- feat(license-server): show time (HH:MM) alongside date in all timestamp columns
+
+## 1.0.427
+- feat(license-server): show first seen and last seen timestamps in admin table
+
+## 1.0.426
+- fix(license-server): fix Edit button broken by JSON.stringify double quotes in onclick attribute
+
+## 1.0.425
+- fix(ems): release all devices to standalone when license is invalid
+
 ## 1.0.424
 - feat(integration): add 6 read-only EMS status sensors to companion integration
 
