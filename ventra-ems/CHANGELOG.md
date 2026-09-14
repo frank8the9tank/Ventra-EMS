@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.438
+- feat(config): replace export_safety_factor with explicit max_export_kw
+
+## 1.0.437
+- feat(config): add Create Device bar with YAML template insertion
+
+## 1.0.436
+- Merge branch 'main' of https://github.com/frank8the9tank/Ventra-EMS-V2
+
 ## 1.0.435
 - feat(ui): move control box and price charts from dashboard to control page
 
