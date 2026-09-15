@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.0.443
+- fix(ui): control page card reorder + inverter limit triangle fix
+
+## 1.0.442
+- docs(claude): add summarise-discuss-then-code and auto-commit-push rules
+
+## 1.0.441
+- refactor(ems): remove EMS-mode-based EV charger control — conditions only
+
+## 1.0.440
+- fix(ems): EV charger charges at max power when conditions allow in AUTO_SELL
+
+## 1.0.439
+- docs(claude): add collaboration rule to ask questions when in doubt
+
 ## 1.0.438
 - feat(config): replace export_safety_factor with explicit max_export_kw
 
