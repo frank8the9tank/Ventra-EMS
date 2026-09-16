@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.444
+- feat(overview): add toggle to show/hide inverter & battery sub-circles
+
 ## 1.0.443
 - fix(ui): control page card reorder + inverter limit triangle fix
 
