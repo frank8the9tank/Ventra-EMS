@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.446
+- feat(config): color required vs optional keys + auto-complete missing keys
+
+## 1.0.445
+- test(fixtures): opt LimitedInverter into power limiting
+
 ## 1.0.444
 - feat(overview): add toggle to show/hide inverter & battery sub-circles
 
