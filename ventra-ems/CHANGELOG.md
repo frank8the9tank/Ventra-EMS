@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.459
+- fix(ui): fix ventra-utils.js path in config.html (missed in previous commit)
+
+## 1.0.458
+- fix(ui): use relative path for ventra-utils.js to fix HA Ingress
+
 ## 1.0.457
 - docs(claude): document two-track release process
 
