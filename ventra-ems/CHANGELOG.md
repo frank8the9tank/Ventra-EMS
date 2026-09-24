@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.0.456
+- fix(companion): widen battery power entity range to ±50 kW
+
+## 1.0.455
+- feat(control): show live mode decision reason in Control card
+
+## 1.0.454
+- fix(overview): move buy strategy card below grid circle
+
+## 1.0.453
+- feat(overview): add buy strategy card above battery node
+
+## 1.0.452
+- fix(ui): restore battery state indicator colours on dashboard
+
+## 1.0.451
+- fix(ems): reset sell schedule snapshot when min_sell_price changes
+
+## 1.0.450
+- fix(ems): stop solar limiter oscillation in sell mode; freeze sell schedule display
+
+## 1.0.449
+- feat(ui): centralise time formatting in ventra-utils.js (forced 24h)
+
+## 1.0.448
+- fix(overview): eliminate animated-dash cross artifact inside home circle
+
+## 1.0.447
+- fix(control): align drag-and-drop with dashboard card-header pattern
+
 ## 1.0.446
 - feat(config): color required vs optional keys + auto-complete missing keys
 
