@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.457
+- docs(claude): document two-track release process
+
 ## 1.0.456
 - fix(companion): widen battery power entity range to ±50 kW
 
