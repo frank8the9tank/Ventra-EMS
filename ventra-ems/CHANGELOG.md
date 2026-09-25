@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.462
+- fix(ui): prevent caching of HTML pages + fmtTime fallback guard
+
+## 1.0.461
+- fix(api): return 200+error for solar_forecast when no entity configured
+
 ## 1.0.460
 - fix(ui): inline fmtTime in all pages — remove external script dependency
 
