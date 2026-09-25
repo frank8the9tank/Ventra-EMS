@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.460
+- fix(ui): inline fmtTime in all pages — remove external script dependency
+
 ## 1.0.459
 - fix(ui): fix ventra-utils.js path in config.html (missed in previous commit)
 
