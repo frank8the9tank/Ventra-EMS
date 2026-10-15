@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.462.1
+- fix(ev): take control is on only while a charging power is sent; otherwise off with 0 (was: on with 0, so the charger automation could charge at its minimum current from the grid)
+
 ## 1.0.462
 - fix(ui): prevent caching of HTML pages + fmtTime fallback guard
 
