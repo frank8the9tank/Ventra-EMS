@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.462.2
+- fix(ev): the charging session lasts while the car is plugged in, so the rules switch the charger on again after Ventra-EMS switched it off (e.g. a night window); a full car waits until it is unplugged
+- fix(ev): the device rules switch take control on and off; the power mode only sets the amount, between the charger's minimum and maximum power (solar mode at night in an allowed window charges at the minimum)
+
 ## 1.0.462.1
 - fix(ev): take control is on only while a charging power is sent; otherwise off with 0 (was: on with 0, so the charger automation could charge at its minimum current from the grid)
 
